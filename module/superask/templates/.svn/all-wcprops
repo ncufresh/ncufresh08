@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/foradmin/workv11_svn/!svn/ver/456/trunk/module/superask/templates
+END
+topic_view.htm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/foradmin/workv11_svn/!svn/ver/417/trunk/module/superask/templates/topic_view.htm
+END
+diff.htm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/superask/templates/diff.htm
+END
+showgroup.htm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/superask/templates/showgroup.htm
+END
+topic_chkorv_form.htm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/superask/templates/topic_chkorv_form.htm
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/superask/templates/index.tpl
+END
+allversion.htm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/superask/templates/allversion.htm
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/foradmin/workv11_svn/!svn/ver/456/trunk/module/superask/templates/style.css
+END
+topic_newpost_form.htm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/superask/templates/topic_newpost_form.htm
+END
+mainpage.htm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/superask/templates/mainpage.htm
+END
+toolbar.htm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/superask/templates/toolbar.htm
+END
+department.htm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/superask/templates/department.htm
+END
+topic_create_form.htm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/superask/templates/topic_create_form.htm
+END
+topic_header.htm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/superask/templates/topic_header.htm
+END

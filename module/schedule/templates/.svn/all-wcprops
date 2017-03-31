@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/foradmin/workv11_svn/!svn/ver/561/trunk/module/schedule/templates
+END
+groupList.htm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/templates/groupList.htm
+END
+listGroup.htm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/templates/listGroup.htm
+END
+groupShow.htm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/foradmin/workv11_svn/!svn/ver/385/trunk/module/schedule/templates/groupShow.htm
+END
+actadd-sample.htm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/foradmin/workv11_svn/!svn/ver/385/trunk/module/schedule/templates/actadd-sample.htm
+END
+msgAdd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/templates/msgAdd.htm
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/foradmin/workv11_svn/!svn/ver/419/trunk/module/schedule/templates/style.css
+END
+group_edit.htm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/templates/group_edit.htm
+END
+actList.htm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/templates/actList.htm
+END
+schModify-sample.htm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/foradmin/workv11_svn/!svn/ver/561/trunk/module/schedule/templates/schModify-sample.htm
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/foradmin/workv11_svn/!svn/ver/561/trunk/module/schedule/templates/index.htm
+END
+member.htm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/templates/member.htm
+END
+viewday.htm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/foradmin/workv11_svn/!svn/ver/385/trunk/module/schedule/templates/viewday.htm
+END
+showAct.htm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/templates/showAct.htm
+END
+actadd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/templates/actadd.htm
+END
+groupCreate.htm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/templates/groupCreate.htm
+END
+memberLeave.htm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/templates/memberLeave.htm
+END
+schModify.htm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/templates/schModify.htm
+END
+sysmsg.htm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/templates/sysmsg.htm
+END

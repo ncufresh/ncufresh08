@@ -1,0 +1,61 @@
+8
+
+dir
+590
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn/trunk/module
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn
+
+
+
+2008-09-01T05:15:13.864004Z
+588
+enc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0a255a38-dcb9-dc11-9239-001921398eb2
+
+videoplayer
+dir
+
+teach
+dir
+
+lifemigi
+dir
+
+elf
+dir
+
+mustknow
+dir
+
+forum
+dir
+
+sheet
+dir
+
+news
+dir
+
+schedule
+dir
+
+superask
+dir
+
+regwizard
+dir
+

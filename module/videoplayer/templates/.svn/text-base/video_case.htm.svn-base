@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link type="text/css" type="text/css" rel="stylesheet" href="video_style.css" />
+<body>
+<div id="video_container">
+<embed src="<{ $swf_url }>?config=%7Bembedded%3Atrue%2CbaseURL%3A%27<{ $swf_file_url }>%27%2CvideoFile%3A%27%2E%2E%2F<{ $v_url }>%27%2CinitialScale%3A%27scale%27%2CcontrolBarBackgroundColor%3A%270x<{ $control_bar_bgcolor }>%27%2CautoPlay%3A<{ $is_auto_play }>%7D" width="<{ $embed_width }>" height="<{ $embed_height }>" scale="noscale" bgcolor="<{ $swf_bgcolor }>" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" allowNetworking="all" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</embed><!-- %2F-> / %2E -> . !-->
+
+	<span class="video_info" style="text-align: left">片名: <{ $v_name }></span>
+	<span class="video_info">製片: <{ $v_maker }></span>
+	<span class="video_info">片長: <{ $v_mins }> 分 <{ $v_secs }> 秒</span>
+	<span class="video_info">大小: <{ $v_size }> KBs</span>
+	<span class="video_info">觀看人次: <{ $v_count }> 人</span>
+	<span class="video_info_right" style="border-top: 0px; width: 10px;">&nbsp;</span>
+	<span class="video_info_right" style="border-bottom: 0px;">相關影片</span>
+	<span class="video_info_right" style="border-top: 0px;"><a href="video/<{ $v_sn }>.mp4">下載影片</a></span>
+	<div id="video_link">
+		<{ section loop=$v_re name=key }>
+		<a <{ if $this_mday >= $v_re[key].v_expire }>
+					href="video_case.php?v_sn=<{ $v_re[key].v_sn }>"
+				<{ else }>
+					href="#" onclick="alert(' 8 月 <{$v_re[key].v_expire}> 號才會推出喔');return false;" style="border:1px dashed"
+				<{ /if }> target="video_frame">
+		<div style="width: 100%; height:20px;">
+
+		<span class="video_expire">&nbsp;8 / <{ $v_re[key].v_expire }>&nbsp;</span>
+		
+		</div>
+		<div style="clear:both;line-height:0px;">&nbsp;</div>
+		<span class="video_relative_name"><{ if $this_mday >= $v_re[key].v_expire }><{ $v_re[key].v_name }><{else}>近期推出<{ /if }></span>
+		
+		</a>
+		<{ /section }>
+		<div style="clear:both;line-height: 10px;text-align: center;">&nbsp;</div>
+	</div>
+</div>
+</body>
+

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/foradmin/workv11_svn/!svn/ver/570/trunk/module/regwizard/templates
+END
+admin_main.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/templates/admin_main.html
+END
+admin_ajax.c_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/templates/admin_ajax.c_type.html
+END
+opt_check.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/foradmin/workv11_svn/!svn/ver/459/trunk/module/regwizard/templates/opt_check.html
+END
+admin_ajax.datetype.double.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/templates/admin_ajax.datetype.double.html
+END
+index_rw_readfirst.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/foradmin/workv11_svn/!svn/ver/570/trunk/module/regwizard/templates/index_rw_readfirst.html
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/foradmin/workv11_svn/!svn/ver/494/trunk/module/regwizard/templates/style.css
+END
+admin_ajax.c_value.sex.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/templates/admin_ajax.c_value.sex.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/foradmin/workv11_svn/!svn/ver/492/trunk/module/regwizard/templates/index.html
+END
+admin_manage_add.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/templates/admin_manage_add.html
+END
+admin_ajax.c_column.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/templates/admin_ajax.c_column.html
+END
+admin_ajax.datetype.single.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/templates/admin_ajax.datetype.single.html
+END
+admin_manage_url.edit_single_url.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/templates/admin_manage_url.edit_single_url.html
+END
+admin_manage_url.editurl.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/templates/admin_manage_url.editurl.html
+END
+admin_ajax.c_value.department.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/templates/admin_ajax.c_value.department.html
+END

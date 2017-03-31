@@ -1,0 +1,77 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #000;
+	color: white;
+	font-size: 10pt;
+}
+#video_container{
+	width: 720px;
+	z-index: 4;
+}
+#video_container a{
+	text-decoration: none;
+	color: white;
+}
+#video_container embed{
+	float: left;
+	background: #000;
+}
+#video_container .video_info{
+	padding-left: 5px;
+	padding-right: 5px;
+	float: left;
+	border-bottom: 1px solid white;
+	border-right: 1px solid white;
+	border-top:1px solid white;
+	line-height: 20px;
+	text-align: center;
+}
+#video_container .video_info_right{
+	float:right;
+	border-top:1px solid white;
+	border-right:0px;
+	border-left: 1px solid white;
+	border-bottom: 1px solid white;
+	text-align: center;
+	padding-left: 5px;
+	padding-right: 5px;
+
+}
+#video_link{
+	width: 720px;
+	height: 155px;
+	clear: both;
+	overflow:hidden;
+	SCROLLBAR-FACE-COLOR: #FFF;                     /*設定軸面顏色*/
+	SCROLLBAR-HIGHLIGHT-COLOR:#000;              /*設定軸面三角左邊顏色*/
+	SCROLLBAR-SHADOW-COLOR: #000;               /*設定軸面三角右邊顏色*/
+	SCROLLBAR-3DLIGHT-COLOR: #000;                 /*設定左立體邊顏色*/
+	SCROLLBAR-DARKSHADOW-COLOR: #000;      /*設定右立體面顏色*/ 
+	SCROLLBAR-ARROW-COLOR: #fff;                 /*設定箭頭的顏色*/
+	SCROLLBAR-TRACK-COLOR: #000;                   /*設定軸軌的顏色*/
+}
+#video_link a{
+	float: left;
+	width: 154px;
+	height: 120px;
+	margin: 20px auto auto 20px;
+	border: 1px solid white;
+text-align: center;
+}
+
+#video_link a:hover{
+	background-color: #222
+}
+.video_expire{
+float: right;
+border-left: 1px solid white;
+border-bottom: 1px white solid;
+ line-height:20px;font-size: 10pt;
+}
+.video_relative_name{
+width: 100%;
+float:left;
+font-size:16pt;
+line-height:80px;
+}

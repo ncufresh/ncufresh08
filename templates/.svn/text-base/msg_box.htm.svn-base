@@ -1,0 +1,36 @@
+<style type="text/css">
+.field_content a
+{
+	text-decoration: none;
+}
+</style>
+
+<div class="blue_back">
+		<div class="field_top_top"><img src="templates/images/mailbox.gif" class="field_title" /><div class="bigfront" style="width:140px;margin: -35px 0 80px 480px;">你<{if $unreads==0}>沒有<{else}>有<{$unreads}>封<{/if}><br/><span style="margin-left:20px">未讀信件</span>
+		</div>
+		<div style="margin-left:95px;margin-top:-55px;"><a href="msgsend.php" title="傳送訊息">點我傳送訊息</a></div>
+		</div>
+<div class="field_content_bar"><div style="width:215px; float:left;color:#333;">主旨</div><div style="width:150px;float:left;color:#333">寄信人</div><div style="width:65px;float:left;color:#333;">日期</div><div style="float:left;color:#333;">刪除</div></div>
+<div class="field_content_content">
+<form action="msgbox_do.php?msgdel=1" method="post">
+  <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" align="center" width="100%">
+<{section name="sec1" loop=$msgs}>
+    <tr>
+      <td width="220"><a href="msgbox_do.php?msgread=1&mno=<{$msgs[sec1].mno}>" title="閱讀訊息" style="color:#1f4652;"><{if ($msgs[sec1].status == 2)}><b><{$msgs[sec1].title}></b><{else}><{$msgs[sec1].title}><{/if}></a></td>
+      <td width="150"><a href="show_pfile.php?uno=<{$msgs[sec1].sender_no}>" title="使用者資料" style="color:#690;"><{$msgs[sec1].sender_id}></a></td>
+      <td width="70" style="color:#1f4652;"><{$msgs[sec1].time}></td>
+	  <!--<td><input type="checkbox" name="chk[]" value="<{$msgs[sec1].mno}>"/></td>-->
+	  <td><a onClick="if(!confirm('確定刪除此信件?'))return false;" href="msgbox_do.php?msgdel=1&mno=<{$msgs[sec1].mno}>" title="刪除訊息"><img src="templates/images/p_friendminus.gif" style="border:0px;"/></a></td>
+    </tr>
+<{/section}>
+<!--	<tr>
+		<td colspan="4" align="right"><input type="submit" value="刪除"/></td>
+</tr>-->
+  </table>
+</form>
+</div>
+<div class="field_bottom">
+      <div style="float:left; margin-left:10px;color:#2789A5;">共有 <{$num}> 封</div>
+      <div style="float:right; margin-right:10px;color:#2789A5;">頁數&nbsp;&nbsp;<{foreach from=$p item="pag"}><{$pag}>&nbsp;&nbsp;<{/foreach}></div>
+</div>
+</div>

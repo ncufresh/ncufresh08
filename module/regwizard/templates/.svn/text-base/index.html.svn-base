@@ -1,0 +1,40 @@
+<link rel="stylesheet" href="templates/style.css" />
+<table width="652" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="2" valign="top" class="td_1_top">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="td_2_full_left">
+    <{if $currmodule->isadmin($curruser) == TRUE}>
+    <center><a href="admin_main.php">[管理介面]</a></center>
+    <{/if}>
+    <table width="318" border="0" cellspacing="0" cellpadding="0">
+    <{section name=dis loop=$opt_list_dis}>
+      <tr>
+        <td width="58" align="right">
+		<img src="templates/images/<{if $opt_list_dis[dis].dis_type == "complete"}>cave.gif<{else}>niddle.gif<{/if}>" alt="(<{$opt_list_dis[dis].rwo_date_display}>)<{$opt_list_dis[dis].rwo_img_alt}>" width="17" height="18" />
+		</td>
+        <td width="5"></td>
+        <td width="255" align="left"><a href="opt_check.php?rwoID=<{$opt_list_dis[dis].rwoID}>"><span class="<{$opt_list_dis[dis].dis_type}>"><{$opt_list_dis[dis].rwo_name}></span></a></td>
+      </tr>
+    <{/section}>
+    </table>
+    </td>
+    <td valign="top" class="td_2_full_right">
+    <div id="td_2_right">
+    <{if $chk_finished == 1}>
+    <br /><br /><br /><img src="templates/images/opt_finished.gif" />
+    <{/if}>
+    </div>
+    <div id="td_3_right"><img src="templates/images/pp.room<{$c_level}>.gif" alt="<{$c_level_description}>" /></div>
+    <div id="td_4_right"></div>
+    <div id="td_5_right" align="right">
+    <img src="templates/images/ex_non-begin.gif" alt="工作未開始" /><br />
+    <img src="templates/images/ex_necessary.gif" alt="必完成工作" /><br />
+    <img src="templates/images/ex_non-necessary.gif" alt="非必要工作" /><br />
+    <img src="templates/images/ex_complete.gif" alt="工作已完成" /><br />
+    <img src="templates/images/ex_non-complete.gif" alt="過期未完成" />
+    </div>
+    </td>
+  </tr>
+</table>

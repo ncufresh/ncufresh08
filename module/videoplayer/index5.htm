@@ -1,0 +1,71 @@
+<!-- video player plugin starts !-->
+<style type="text/css">
+#video_bg{
+	display: none;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 150%;
+	background-color: #000000;
+	text-align: center;
+	filter:alpha(opacity=90);       /* IE */
+	-moz-opacity:0.9;              /* Moz + FF */
+	opacity: 0.9;           /* 支持CSS3的浏览器（FF 1.5也支持）*/
+}
+#video_win{
+	border: 1px solid black;
+	margin: 20px auto;
+	width: 720px;
+	border: 1px white solid;
+}
+#video_win .video_title{
+	line-height: 39px;
+	width: 675px;
+	float: left;
+	border-bottom: 1px solid white;
+	border-right: 1px solid white;
+	padding-left: 5px;
+	color: white;
+}
+#video_win a.delete_box{
+	float: right;
+	color: white;
+	text-decoration: none;
+	height: 39px;
+	width: 39px;
+	background: url("delete.gif") no-repeat center;
+	border-bottom: 1px solid white;	
+}
+#video_win a:hover.delete_box{
+	color: white;
+	background: url("delete_hover.gif") no-repeat center #FFF;
+}
+</style>
+<script type="text/javascript">
+function open_video(v_sn){
+	document.getElementById("video_bg").style.display = "block";
+	document.getElementById("video_frame").src="video_case.php?v_sn="+v_sn;
+}
+function close_video(){
+	document.getElementById("video_frame").src="";
+	document.getElementById("video_bg").style.display = "none";
+}
+</script>
+<button onclick="open_video(1);">Open Video(隱陰鑽去)</button>
+<button onclick="open_video(5);">Open Video(生存MIMIGIGI)</button>
+<div id="video_bg">
+	<div id="video_win">
+		<div id="video_title"><span class="video_title">影音導覽</span><a href="#" onclick="close_video();return false;" class="delete_box">&nbsp;</a></div>
+		<iframe 
+			id="video_frame" 
+			name="video_frame" 
+			frameborder="0" 
+			width="720" 
+			height="710" 
+			src=""  
+			scrolling="no"
+		></iframe>
+	</div>
+</div>
+<!-- video player plugin ends !-->

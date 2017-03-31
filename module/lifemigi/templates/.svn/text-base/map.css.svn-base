@@ -1,0 +1,197 @@
+/*
+.map_base { position: relative; margin: 0 auto; }
+.map_base .div { position: absolute; z-index: 20000; background: url('images/tranparent.gif'); }
+.map_base span { display: none; position: relative; background: #ddd; border: 1px solid black; color: black; width: 400px; text-align: left; top: 20px; left: 30px; z-index: 20000; }
+.map_base a { display: block; }
+.map_base a:hover span { display: block; }
+*/
+
+.map_base { position: relative; margin: 0 auto; }
+.div { position: absolute; display: inline; }
+.div a { position: absolute; display: block; }
+.div a span { display: none; width: 400px; border: 1px solid black; color: black; text-align: left; background: #ddd; position: relative; left: 40px; top: 40px; }
+.map_base .div a:hover { margin: 0; }
+.div a:hover span { display: block; }
+
+.map_1 { background: url('../attachfiles/Foodroadv2.jpg'); width: 800px; height: 600px; }
+.aleDef { left: 483px; top: 112px; }
+.aleDef a { width: 20px; height: 100px; }
+.a01Def { left: 508px; top: 112px; }
+.a01Def a { width: 25px; height: 105px; }
+.a02Def { left: 620px; top: 112px; }
+.a02Def a { width: 25px; height: 45px; }
+.a03Def { left: 620px; top: 4px; }
+.a03Def a { width: 25px; height: 87px; }
+.a04Def { left: 646px; top: 115px; }
+.a04Def a { width: 67px; height: 49px; }
+.a05Def { left: 748px; top: 17px }
+.a05Def a { width: 30px; height: 68px; }
+.a06Def { left: 221px; top: 566px; }
+.a06Def a { width: 88px; height: 25px; }
+.a09Def { left: 216px; top: 430px; }
+.a09Def a { width: 87; height: 24px; }
+.a10Def { left: 215px; top: 453px; }
+.a10Def a { width: 107px; height: 22px; }
+.a11Def { left: 63px; top: 426px; }
+.a11Def a { width: 110px; height: 28px; }
+.a12Def { left: 17px; top: 276px; }
+.a12Def a { width: 87px; height: 29px; }
+.a13Def { left: 214px; top: 248px; }
+.a13Def a { width: 62px; height: 21px; }
+.a15Def { left: 302px; top: 247px; }
+.a15Def a { width: 65px; height: 23px; }
+.a16Def { left: 211px; top: 159px; }
+.a16Def a { width: 66px; height: 22px; }
+.a17Def { left: 214px; top: 138px; }
+.a17Def a { width: 61px; height: 19px; }
+.a18Def { left: 81px; top: 139px; }
+.a18Def a { width: 91px; height: 32px; }
+.a19Def { left: 353px; top: 115px; }
+.a19Def a { width: 24px; height: 83px; }
+.a20Def { left: 426px; top: 109px; }
+.a20Def a { width: 28px; height: 68px; }
+.a21Def { left: 214px; top: 380px; }
+.a21Def a { width: 83px; height: 26px; }
+.a22Def { left: 325px; top: 385px; }
+.a22Def a { width: 64px; height: 20px; }
+.a23Def { left: 210px; top:316px; }
+.a23Def a { width: 125px; height: 20px; }
+.a24Def { left: 427px; top: 4px; }
+.a24Def a { width: 29px; height: 85px; }
+.a25Def { left: 215px; top: 498px; }
+.a25Def a { width: 88px; height: 22px; }
+.a26Def { left: 212px; top: 337px; }
+.a26Def  a { width: 124px; height: 24px; }
+.a27Def { left: 212px; top: 290px; }
+.a27Def a { width: 65px; height: 26px; }
+.a28Def { left: 402px; top: 5px; }
+.a28Def a { width: 26px; height: 87px; }
+.a30Def { left: 101px; top: 475px; }
+.a30Def a { width: 71px; height: 65px; }
+.a32Def { left: 212px; top: 265px; }
+.a32Def a { width: 195px; height: 28px; }
+.a33Def { left: 122px; top: 302px; }
+.a33Def a { width: 53px; height: 22px; }
+.a34Def { left: 336px; top: 356px; }
+.a34Def a { width: 97px; height: 27px; }
+.a35Def { left: 101px; top: 370px; }
+.a35Def a { width: 78px; height: 29px; }
+
+.map_2 { background: url('../attachfiles/ncumap.jpg'); width: 1064px; height: 1331px; }
+.map_2 .bg {top:0; left:0;}
+.map_2 .e5 {left:322px; top:163px;}
+.map_2 .e5 a{width:60px; height:80px;}
+.map_2 .e4 {left:434px; top:112px;}
+.map_2 .e4 a{width:142px; height:124px;}
+.map_2 .e3{left:428px; top:262px;}
+.map_2 .e3 a{width:86px; height:90px;}
+.map_2 .e2 {left:362px; top:590px;}
+.map_2 .e2 a{width:102px; height:60px;}
+.map_2 .e1 {left:352px; top:675px;}
+.map_2 .e1 a{width:84px; height:88px;}
+.map_2 .c2 {left:590px; top:888px;}
+.map_2 .c2 a{width:34px; height:88px;}
+.map_2 .a1 {left:642px; top:888px;}
+.map_2 .a1 a{width:46px; height:80px;}
+.map_2 .s1 {left:352px; top:888px;}
+.map_2 .s1 a{width:112px; height:96px;}
+.map_2 .s2 {left:742px; top:647px;}
+.map_2 .s2 a{width:58px; height:52px;}
+.map_2 .s3 {left:816px; top:654px;}
+.map_2 .s3 a{width:78px; height:32px;}
+.map_2 .s4 {left:940px; top:658px;}
+.map_2 .s4 a{width:80px; height:26px;}
+.map_2 .s5 {left:942px; top:726px;}
+.map_2 .s5 a{width:80px; height:24px;}
+.map_2 .o1 {left:747px; top:723px;}
+.map_2 .o1 a{width:75px; height:41px;}
+.map_2 .m1 {left:850px; top:723px;}
+.map_2 .m1 a{width:62px; height:36px;}
+.map_2 .ii {left:778px; top:823px;}
+.map_2 .ii a{width:61px; height:25px;}
+.map_2 .i1 {left:878px; top:812px;}
+.map_2 .i1 a{width:77px; height:23px;}
+
+.map_3 { background:url('../attachfiles/Backdoor.jpg'); height: 670px; width:700px;}
+.map_3 .bg { top:0px; left:0; }
+.map_3 .garden{left:91px;top:222px;}
+.map_3 .garden a{width:102px; height:23px;}
+.map_3 .no17{left:73px;top:277px;}
+.map_3 .no17 a{width:64px; height:26px;}
+.map_3 .rice{left:272px;top:35px;}
+.map_3 .rice a{width:85px; height:18px;}
+.map_3 .home{left:254px;top:52px;}
+.map_3 .home a{width:101px; height:23px;}
+.map_3 .bear{left:274px;top:98px;}
+.map_3 .bear a{width:81px; height:24px;}
+.map_3 .beef{left:243px;top:123px;}
+.map_3 .beef a{width:122px; height:24px;}
+.map_3 .amo{left:243px;top:147px;}
+.map_3 .amo a{width:123px; height:25px;}
+.map_3 .cake{left:216px;top:172px;}
+.map_3 .cake a{width:141px; height:25px;}
+.map_3 .sea{left:273px;top:197px;}
+.map_3 .sea a{width:82px; height:23px;}
+.map_3 .cut{left:236px;top:221px;}
+.map_3 .cut a{width:120px; height:24px;}
+.map_3 .family{left:234px;top:279px;}
+.map_3 .family a{width:122px; height:23px;}
+.map_3 .bike{left:234px;top:304px;}
+.map_3 .bike a{width:121px; height:23px;}
+.map_3 .eight{left:275px;top:329px;}
+.map_3 .eight a{width:81px; height:23px;}
+.map_3 .print{left:274px;top:355px;}
+.map_3 .print a{width:82px; height:20px;}
+.map_3 .king{left:275px;top:378px;}
+.map_3 .king a{width:83px; height:22px;}
+.map_3 .ding{left:312px;top:403px;}
+.map_3 .ding a{width:46px; height:22px;}
+.map_3 .free{left:313px;top:466px;}
+.map_3 .free a{width:44px; height:23px;}
+.map_3 .myhome{left:255px;top:492px;}
+.map_3 .myhome a{width:102px; height:23px;}
+.map_3 .phy{left:238px;top:517px;}
+.map_3 .phy a{width:120px; height:23px;}
+.map_3 .limuse{left:432px;top:53px;}
+.map_3 .limuse a{width:121px; height:23px;}
+.map_3 .wek{left:432px;top:77px;}
+.map_3 .wek a{width:103px; height:22px;}
+.map_3 .country{left:431px;top:121px;}
+.map_3 .country a{width:82px; height:23px;}
+.map_3 .nine{left:430px;top:147px;}
+.map_3 .nine a{width:84px; height:22px;}
+.map_3 .fomy{left:430px;top:169px;}
+.map_3 .fomy a{width:103px; height:23px;}
+.map_3 .lin{left:432px;top:192px;}
+.map_3 .lin a{width:101px; height:21px;}
+.map_3 .love{left:432px;top:215px;}
+.map_3 .love a{width:64px; height:20px;}
+.map_3 .jimmy{left:433px;top:237px;}
+.map_3 .jimmy a{width:63px; height:22px;}
+.map_3 .red{left:433px;top:259px;}
+.map_3 .red a{width:100px; height:23px;}
+.map_3 .cover{left:433px;top:282px;}
+.map_3 .cover a{width:64px; height:21px;}
+.map_3 .hide{left:432px;top:303px;}
+.map_3 .hide a{width:44px; height:24px;}
+.map_3 .good{left:435px;top:343px;}
+.map_3 .good a{width:83px; height:23px;}
+.map_3 .mc{left:433px;top:366px;}
+.map_3 .mc a{width:102px; height:23px;}
+.map_3 .local{left:434px;top:389px;}
+.map_3 .local a{width:101px; height:22px;}
+.map_3 .seven{left:435px;top:413px;}
+.map_3 .seven a{width:55px; height:52px;}
+.map_3 .luck{left:433px;top:468px;}
+.map_3 .luck a{width:66px; height:21px;}
+.map_3 .chao{left:435px;top:493px;}
+.map_3 .chao a{width:121px; height:23px;}
+.map_3 .budin{left:434px;top:518px;}
+.map_3 .budin a{width:123px; height:23px;}
+.map_3 .laya{left:434px;top:541px;}
+.map_3 .laya a{width:83px; height:23px;}
+.map_3 .veg{left:434px;top:565px;}
+.map_3 .veg a{width:141px; height:22px;}
+.map_3 .hilife{left:435px;top:591px;}
+.map_3 .hilife a{width:122px; height:34px;}
+

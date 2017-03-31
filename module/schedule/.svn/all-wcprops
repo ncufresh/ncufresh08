@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/foradmin/workv11_svn/!svn/ver/564/trunk/module/schedule
+END
+group.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/foradmin/workv11_svn/!svn/ver/416/trunk/module/schedule/group.php
+END
+actAdd-sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/foradmin/workv11_svn/!svn/ver/405/trunk/module/schedule/actAdd-sample.php
+END
+msgAdd.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/msgAdd.php
+END
+groupEdit.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/groupEdit.php
+END
+schDel.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/schDel.php
+END
+actList.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/actList.php
+END
+schModify-sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/foradmin/workv11_svn/!svn/ver/385/trunk/module/schedule/schModify-sample.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/index.php
+END
+member.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/member.php
+END
+viewday.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/viewday.php
+END
+showAct.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/showAct.php
+END
+calendar.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/calendar.php
+END
+memberChange.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/foradmin/workv11_svn/!svn/ver/564/trunk/module/schedule/memberChange.php
+END
+groupDelete.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/groupDelete.php
+END
+actAdd.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/actAdd.php
+END
+groupCreate.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/groupCreate.php
+END
+memberLeave.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/memberLeave.php
+END
+schModify.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/foradmin/workv11_svn/!svn/ver/377/trunk/module/schedule/schModify.php
+END

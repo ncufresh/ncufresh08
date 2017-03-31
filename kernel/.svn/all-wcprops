@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/foradmin/workv11_svn/!svn/ver/579/trunk/kernel
+END
+block.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/foradmin/workv11_svn/!svn/ver/383/trunk/kernel/block.php
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/foradmin/workv11_svn/!svn/ver/559/trunk/kernel/template.php
+END
+group.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/foradmin/workv11_svn/!svn/ver/449/trunk/kernel/group.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/foradmin/workv11_svn/!svn/ver/401/trunk/kernel/user.php
+END
+tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/foradmin/workv11_svn/!svn/ver/1/trunk/kernel/tpl.php
+END
+criteria.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/foradmin/workv11_svn/!svn/ver/544/trunk/kernel/criteria.php
+END
+perm.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/foradmin/workv11_svn/!svn/ver/1/trunk/kernel/perm.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/foradmin/workv11_svn/!svn/ver/1/trunk/kernel/database.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/foradmin/workv11_svn/!svn/ver/579/trunk/kernel/config.php
+END
+module.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/foradmin/workv11_svn/!svn/ver/38/trunk/kernel/module.php
+END
+object.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/foradmin/workv11_svn/!svn/ver/1/trunk/kernel/object.php
+END
+friend.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/foradmin/workv11_svn/!svn/ver/1/trunk/kernel/friend.php
+END

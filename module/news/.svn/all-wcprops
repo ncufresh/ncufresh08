@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/foradmin/workv11_svn/!svn/ver/575/trunk/module/news
+END
+news_do.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/foradmin/workv11_svn/!svn/ver/428/trunk/module/news/news_do.php
+END
+news_showsingle.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/foradmin/workv11_svn/!svn/ver/384/trunk/module/news/news_showsingle.php
+END
+testdel.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/foradmin/workv11_svn/!svn/ver/384/trunk/module/news/testdel.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/foradmin/workv11_svn/!svn/ver/512/trunk/module/news/index.php
+END

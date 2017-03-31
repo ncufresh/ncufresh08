@@ -1,0 +1,3 @@
+<{foreach from=$block.topten item="topic"}>
+<div><a href="<{$block.dirname}>/viewtopic.php?no=<{$topic.topic_no}>" title="<{$topic.title|htmlencode}>"><{$topic.titles|htmlencode}>&nbsp;(<{$topic.num}>)</a></div>
+<{/foreach}>

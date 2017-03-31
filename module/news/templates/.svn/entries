@@ -1,0 +1,94 @@
+8
+
+dir
+590
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn/trunk/module/news/templates
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn
+
+
+
+2008-08-15T02:10:39.743348Z
+575
+chucklin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0a255a38-dcb9-dc11-9239-001921398eb2
+
+images
+dir
+
+news_showsingle.htm
+file
+
+
+
+
+2008-11-05T14:38:45.000000Z
+07339ca94eb60f3ee1a64fdc8de75be7
+2008-08-02T11:44:51.291772Z
+384
+lono
+
+style.css
+file
+
+
+
+
+2008-11-05T14:38:45.000000Z
+cef92e250e78a25718585de4f95c6059
+2008-08-14T14:53:04.577418Z
+572
+chucklin
+
+news_edit.htm
+file
+
+
+
+
+2008-11-05T14:38:45.000000Z
+690b68f666231f782a917b8efefbe10b
+2008-08-04T19:15:58.497528Z
+428
+chucklin
+
+news_post.htm
+file
+
+
+
+
+2008-11-05T14:38:45.000000Z
+18989faf80a7a57e4460d6e909023596
+2008-08-03T12:13:19.299087Z
+405
+chucklin
+
+block
+dir
+
+index.htm
+file
+
+
+
+
+2008-11-05T14:38:45.000000Z
+078f85e4028801f1d4c0dacbb46d40a6
+2008-08-15T02:10:39.743348Z
+575
+chucklin
+

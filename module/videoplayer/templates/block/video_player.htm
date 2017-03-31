@@ -1,0 +1,27 @@
+<!-- video player plugin starts !-->
+<script type="text/javascript">
+function open_video(v_sn){
+	document.getElementById("video_bg").style.display = "block";
+	document.getElementById("video_frame").src="<{$block.dirname}>/"+"video_case.php?v_sn="+v_sn;
+}
+function close_video(){
+	document.getElementById("video_frame").src="";
+	document.getElementById("video_bg").style.display = "none";
+}
+</script>
+<div id="video_bg">
+	<div id="video_win">
+		<div id="video_title"><span class="video_title">影音導覽</span><a href="#" onclick="close_video();return false;" class="delete_box">&nbsp;</a></div>
+		<iframe 
+			id="video_frame" 
+			name="video_frame" 
+			frameborder="0" 
+			width="720" 
+			height="710" 
+			src=""  
+			scrolling="no"
+		></iframe>
+	</div>
+</div>
+<!-- video player plugin ends !-->
+

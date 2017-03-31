@@ -1,0 +1,54 @@
+8
+
+dir
+590
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn/trunk/module/regwizard/include
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn
+
+
+
+2008-08-11T14:59:15.156266Z
+544
+enc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0a255a38-dcb9-dc11-9239-001921398eb2
+
+comm.php
+file
+
+
+
+
+2008-11-05T14:38:46.000000Z
+fb734a4ec43f0a2a700277ea407c591b
+2008-08-11T14:59:15.156266Z
+544
+enc
+has-props
+
+admin_ajax.js
+file
+
+
+
+
+2008-11-05T14:38:46.000000Z
+31ff3c14d92abd32ae78c319abbeceeb
+2008-08-05T15:42:04.423332Z
+446
+chucklin
+has-props
+

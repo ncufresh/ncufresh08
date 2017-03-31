@@ -1,0 +1,106 @@
+8
+
+dir
+590
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn/trunk/module/videoplayer
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn
+
+
+
+2008-09-01T05:15:13.864004Z
+588
+enc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0a255a38-dcb9-dc11-9239-001921398eb2
+
+swf
+dir
+
+templates_c
+dir
+
+video_include.htm
+file
+
+
+
+
+2008-11-05T14:38:25.000000Z
+4d454f9ece10d8044500976230ba8d23
+2008-08-06T18:31:10.430018Z
+478
+lono
+
+index5.htm
+file
+
+
+
+
+2008-11-05T14:38:25.000000Z
+5ad4925b024b4f3937c1c0cd4307d30f
+2008-08-06T18:31:10.430018Z
+478
+lono
+
+video
+dir
+
+video_case.php
+file
+
+
+
+
+2008-11-05T14:38:25.000000Z
+34fe76be8e6a322ff1ec38f057d494dd
+2008-08-22T04:54:23.248313Z
+583
+enc
+
+video_info.php
+file
+
+
+
+
+2008-11-05T14:38:25.000000Z
+fa6cb0e232a85cfa7571629b61089f6f
+2008-09-01T05:11:13.318321Z
+587
+enc
+
+block
+dir
+
+js
+dir
+
+video_style.css
+file
+
+
+
+
+2008-11-05T14:38:25.000000Z
+2dd0e034b4248c4a0ad054c518df3312
+2008-08-06T18:31:10.430018Z
+478
+lono
+
+templates
+dir
+

@@ -1,0 +1,81 @@
+8
+
+dir
+590
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn/trunk/module/videoplayer/templates
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn
+
+
+
+2008-08-08T15:21:45.048336Z
+539
+enc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0a255a38-dcb9-dc11-9239-001921398eb2
+
+delete.gif
+file
+
+
+
+
+2008-11-05T14:38:25.000000Z
+2b354049603f3f88b54d6fc56bf765f9
+2008-08-07T13:12:24.410915Z
+490
+lono
+has-props
+
+style.css
+file
+
+
+
+
+2008-11-05T14:38:25.000000Z
+896fa520e928f0efd7f948222a0d943f
+2008-08-07T15:53:33.676994Z
+502
+lono
+
+video_case.htm
+file
+
+
+
+
+2008-11-05T14:38:25.000000Z
+ea8f4d753cb6c7e59ac0e0227e5f9bed
+2008-08-08T15:21:45.048336Z
+539
+enc
+
+delete_hover.gif
+file
+
+
+
+
+2008-11-05T14:38:25.000000Z
+047f7950f5fc665809e174f23f39c4dc
+2008-08-07T13:12:24.410915Z
+490
+lono
+has-props
+
+block
+dir
+

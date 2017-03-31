@@ -1,0 +1,33 @@
+<div class="blue_back">
+<div class="field_top_top">
+	<img src="templates/images/readmail.gif" class="field_title" alt="傳訊息" />
+	<div style="margin: -20px 0px 80px 470px;float:none;font-size:14pt;">
+		回到&gt;&gt;<a href="redirect.php?1" style="color:black;text-decoration:none;margin:10px 0 0 20px;font-size:24pt;display:block;"><span>我的信箱</span></a></div>
+</div>
+<div class="field_content_bar"></div>
+<div class="field_content">
+  <div class="button"><a href="msgsend.php?msgreply=1&title=<{$msg.title|urlencode}>&fno=<{$msg.sender_no}>" title="回覆留言" style="line-height:43px;">回覆</a></div>
+  <div class="button"><a href="msgbox_do.php?msgdel=1&mno=<{$msg.mno}>" title="刪除留言" style="line-height:43px;">刪除</a></div>
+  <table border="0" cellpadding="3" cellspacing="0" style="border-collapse: collapse" align="center" width="100%">
+    <tr>
+      <td width="75">寄件者：</td>
+      <td><{$msg.sender_id}>(<{$msg.sender_name}>)</td>
+	  <td width="100"></td>
+    </tr>
+    <tr>
+      <td>標題：</td>
+      <td><{$msg.title}></td>
+    </tr>
+    <tr>
+      <td>時間：</td>
+      <td><{$msg.time}></td>
+    </tr>
+    <tr>
+ 	  <td colspan="2"><hr/>
+		  <{$msg.content}>
+	  </td>
+    </tr>
+  </table>
+</div>
+<div class="field_bottom"></div>
+</div>

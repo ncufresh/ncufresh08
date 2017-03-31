@@ -1,0 +1,82 @@
+8
+
+dir
+590
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn/trunk/module/elf/templates
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn
+
+
+
+2008-08-06T19:17:23.739590Z
+479
+chucklin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0a255a38-dcb9-dc11-9239-001921398eb2
+
+admin.htm
+file
+
+
+
+
+2008-11-05T14:38:44.000000Z
+0812a1fa045b7aafea80cd5b09d9d87a
+2008-08-04T07:07:34.520749Z
+411
+enc
+
+congratulation.htm
+file
+
+
+
+
+2008-11-05T14:38:44.000000Z
+1ac66f6a2e0fb71b6a9f4afb6e0e5d8c
+2008-08-01T19:02:28.516560Z
+377
+lono
+
+images
+dir
+
+style.css
+file
+
+
+
+
+2008-11-05T14:38:44.000000Z
+7109f1584167423a54ffa1c4bb3d9635
+2008-08-05T07:08:25.670349Z
+431
+lono
+
+block
+dir
+
+elfroom.htm
+file
+
+
+
+
+2008-11-05T14:38:44.000000Z
+6216a7f7759bd1f0410a7d3cbd224fbd
+2008-08-06T19:17:23.739590Z
+479
+chucklin
+

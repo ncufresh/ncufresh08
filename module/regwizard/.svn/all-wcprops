@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/foradmin/workv11_svn/!svn/ver/586/trunk/module/regwizard
+END
+admin_ajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/admin_ajax.php
+END
+admin_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/admin_main.php
+END
+opt_check.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/foradmin/workv11_svn/!svn/ver/570/trunk/module/regwizard/opt_check.php
+END
+admin_manage_url.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/admin_manage_url.php
+END
+index_rw_readfirst.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/foradmin/workv11_svn/!svn/ver/570/trunk/module/regwizard/index_rw_readfirst.php
+END
+admin_process.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/admin_process.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/foradmin/workv11_svn/!svn/ver/570/trunk/module/regwizard/index.php
+END
+admin_manage_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/foradmin/workv11_svn/!svn/ver/446/trunk/module/regwizard/admin_manage_add.php
+END

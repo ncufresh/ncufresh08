@@ -1,0 +1,73 @@
+8
+
+dir
+590
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn/trunk/module/mustknow
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn
+
+
+
+2008-09-01T05:15:13.864004Z
+588
+enc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0a255a38-dcb9-dc11-9239-001921398eb2
+
+edit_nav.php
+file
+
+
+
+
+2008-11-05T14:38:44.000000Z
+e6ca6974acb46afc73d83f58f0ffc63b
+2008-08-04T16:16:30.773415Z
+415
+chucklin
+
+templates_c
+dir
+
+sqltest.php
+file
+
+
+
+
+2008-11-05T14:38:44.000000Z
+6b92021379022dae5fd2919a86f54e98
+2008-08-01T19:17:08.574252Z
+379
+lono
+
+attachfiles
+dir
+
+index.php
+file
+
+
+
+
+2008-11-05T14:38:44.000000Z
+543a02c0f0d5ba54a35a8432fb5a08c1
+2008-08-05T18:22:37.970901Z
+447
+chucklin
+
+templates
+dir
+

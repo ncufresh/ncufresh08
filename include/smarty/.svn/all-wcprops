@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/foradmin/workv11_svn/!svn/ver/544/trunk/include/smarty
+END
+Smarty_Compiler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/foradmin/workv11_svn/!svn/ver/1/trunk/include/smarty/Smarty_Compiler.class.php
+END
+debug.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/foradmin/workv11_svn/!svn/ver/1/trunk/include/smarty/debug.tpl
+END
+Smarty.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/foradmin/workv11_svn/!svn/ver/1/trunk/include/smarty/Smarty.class.php
+END
+Config_File.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/foradmin/workv11_svn/!svn/ver/1/trunk/include/smarty/Config_File.class.php
+END

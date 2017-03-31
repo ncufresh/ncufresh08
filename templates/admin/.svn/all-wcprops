@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/foradmin/workv11_svn/!svn/ver/33/trunk/templates/admin
+END
+module_manage.htm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/foradmin/workv11_svn/!svn/ver/1/trunk/templates/admin/module_manage.htm
+END
+set_config.htm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/foradmin/workv11_svn/!svn/ver/1/trunk/templates/admin/set_config.htm
+END
+block_manage.htm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/foradmin/workv11_svn/!svn/ver/33/trunk/templates/admin/block_manage.htm
+END

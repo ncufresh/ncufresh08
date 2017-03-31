@@ -1,0 +1,143 @@
+8
+
+dir
+590
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn/trunk/module/regwizard
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn
+
+
+
+2008-08-29T05:29:30.377378Z
+586
+enc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0a255a38-dcb9-dc11-9239-001921398eb2
+
+templates_c
+dir
+
+admin_ajax.php
+file
+
+
+
+
+2008-11-05T14:38:47.000000Z
+ba13db58aaa396f784ac10e0a78d983e
+2008-08-05T15:42:04.423332Z
+446
+chucklin
+has-props
+
+admin_main.php
+file
+
+
+
+
+2008-11-05T14:38:47.000000Z
+5a901416a6f638a9b3e751f8e8ed3bea
+2008-08-05T15:42:04.423332Z
+446
+chucklin
+has-props
+
+include
+dir
+
+opt_check.php
+file
+
+
+
+
+2008-11-05T14:38:47.000000Z
+dbd45e812e4e40200cd907d727adb872
+2008-08-14T07:49:04.441461Z
+570
+chucklin
+has-props
+
+attachment
+dir
+
+admin_manage_url.php
+file
+
+
+
+
+2008-11-05T14:38:47.000000Z
+3efedbc135b5c3495c6479abdf273c49
+2008-08-05T15:42:04.423332Z
+446
+chucklin
+has-props
+
+index_rw_readfirst.php
+file
+
+
+
+
+2008-11-05T14:38:47.000000Z
+ccc4619cb295721c3021d75288597e88
+2008-08-14T07:49:04.441461Z
+570
+chucklin
+
+admin_process.php
+file
+
+
+
+
+2008-11-05T14:38:47.000000Z
+f19b80d94459c14840bdeb6dbc973445
+2008-08-05T15:42:04.423332Z
+446
+chucklin
+has-props
+
+index.php
+file
+
+
+
+
+2008-11-05T14:38:47.000000Z
+db52aff0ba781809b24c3f7e9ccc392f
+2008-08-14T07:49:04.441461Z
+570
+chucklin
+has-props
+
+templates
+dir
+
+admin_manage_add.php
+file
+
+
+
+
+2008-11-05T14:38:47.000000Z
+a4e3f7d57f0f30e344c13b3834bd02c9
+2008-08-05T15:42:04.423332Z
+446
+chucklin
+has-props
+

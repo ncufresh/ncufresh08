@@ -1,0 +1,54 @@
+8
+
+dir
+590
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn/trunk/module/sheet/include/OpenFlash/js
+http://ncufresh.ncu.edu.tw/foradmin/workv11_svn
+
+
+
+2008-08-11T18:29:03.063940Z
+551
+chucklin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0a255a38-dcb9-dc11-9239-001921398eb2
+
+swfobject.js
+file
+
+
+
+
+2008-11-05T14:38:45.000000Z
+fc36c10f8baf6c90e6eab2d0a761a0b2
+2008-08-11T18:29:03.063940Z
+551
+chucklin
+has-props
+
+README.txt
+file
+
+
+
+
+2008-11-05T14:38:45.000000Z
+7c0eb2e4b160f6fc4f652d2f9cddffb5
+2008-08-11T18:29:03.063940Z
+551
+chucklin
+has-props
+

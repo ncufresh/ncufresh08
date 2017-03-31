@@ -1,0 +1,46 @@
+<script type="text/javascript">
+	function add_friend2(fid)
+	{
+		var parms = 'add_friend=1&fid=' + fid;
+
+		var req = new Ajax.Request("friendlist_ajax.php", {method: "post", parameters: parms, onComplete: function (q){alert('已加入好友名單');}});
+	}
+</script>
+<div class="blue_back">
+	<div class="field_top_top"><img src="templates/images/personallist.gif" class="field_title"/><img src="templates/images/pine<{$user->pic}>.gif" class="in_section"/></div>
+	<div id="gotoroom"><a href="<{$currconfig->url}>/module/elf/elfroom.php?uno=<{$smarty.get.uno}>" title="進入精靈房間"></a></div>
+<div class="field_content_bar"></div>
+<div class="field_content">
+      <{if (!$curruser->isguest())}><div class="button"><a href="javascript: add_friend2('<{$user->uid}>')" title="加入好友" >加為<br>好友</a></div><div class="button"><a href="msgsend.php?fno=<{$user->uno}>" title="傳送訊息" >傳送<br>訊息</a></div><{/if}>
+  <table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse;" width="100%">
+    <tr>
+      <th colspan="5"><{$user->uid}>(<{if ($user->isonline() == 1)}>正在線上<{else}>不在線上<{/if}>)</th>
+    </tr>
+    <tr>
+      <td width="25%">暱稱</td>
+      <td width="25%"><{$user->name}></td>
+    </tr>
+    <tr>
+      <td width="25%">性別</td>
+      <td width="25%"><{$user->sex}></td>
+    </tr>
+    <tr>
+      <td width="25%">系所</td>
+      <td width="25%"><{$user->department}></td>
+    </tr>
+    <tr>
+      <td width="25%">首頁</td>
+      <td colspan="3" width="82%"><{if ($user->website)}><a href="<{$user->website|htmlencode}>" target="_blank" title="個人首頁">請按我</a><{else}>無<{/if}></td>
+    </tr>
+    <tr>
+      <td width="25%">電子信箱</td>
+      <td colspan="3" width="82%"><{if ($user->email)}><a href="mailto:<{$user->email|htmlencode}>" title="電子信箱"><{$user->email|htmlencode}></a><{else}>無<{/if}></td>
+    </tr>
+    <tr>
+      <td width="25%">自我介紹</td>
+      <td colspan="3" width="82%"><{$user->intro|nl2br}></td>
+    </tr>
+  </table>
+</div>
+<div class="field_bottom"></div>
+</div>
